@@ -1,2 +1,2 @@
-# Chess-Visualizaci-n-de-datos-
+# Chess-Visualización-de-datos-
 Visualización de datos de la ETL del proyecto anterior: https://github.com/BorjaDorado/Chess
