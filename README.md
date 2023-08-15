@@ -25,4 +25,3 @@ El gráfico de barras representa la cantidad de azúcar por artículo y por rest
 ## Conclusiones
 En conclusión, después del análisis realizado, se considera que KFC y Wendy's son las opciones más saludables dentro de las cadenas de comida rápida analizadas. El proyecto ha permitido explorar y visualizar de manera efectiva los datos obtenidos de la ETL, proporcionando una comprensión más clara de las diferencias nutricionales entre los restaurantes.
 
-
