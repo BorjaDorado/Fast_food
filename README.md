@@ -12,14 +12,17 @@ Después de completar el proceso de ETL, se procedió a realizar un análisis ex
 
 ## Diagrama de calor
 [![calor.png](https://i.postimg.cc/SRh2qthY/calor.png)](https://postimg.cc/jwMd4cCR)
+
 En el diagrama de calor se observa que los restaurantes KFC y Wendy's presentan un menor porcentaje de grasas y azúcares, y un mayor porcentaje de proteínas en comparación con los demás. Por otro lado, el resto de los restaurantes analizados muestran un alto contenido de carbohidratos, azúcares y grasas.
 
 ## Gráfico de puntos
 [![scaterplot.png](https://i.postimg.cc/mkCYyHbC/scaterplot.png)](https://postimg.cc/9wXwWzwQ)
+
 El gráfico de puntos revela una correlación entre las calorías y el contenido de grasas en los alimentos, con excepciones notables como McDonald's, donde la distribución es más dispersa.
 
 ## Gráfico de barras
 [![Az-cares.png](https://i.postimg.cc/Zqsxbm7B/Az-cares.png)](https://postimg.cc/f3X9CGhD)
+
 El gráfico de barras representa la cantidad de azúcar por artículo y por restaurante. Se destaca que productos como los refrescos y postres tienen una mayor concentración de azúcares, siendo los de Burger King, McDonald's y Taco Bell los menos saludables en este aspecto.
 
 ## Conclusiones
