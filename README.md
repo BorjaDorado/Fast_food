@@ -1,4 +1,7 @@
 # Fast food
+
+[![fast-food.jpg](https://i.postimg.cc/GmVtrc5P/fast-food.jpg)](https://postimg.cc/gxymHPdr)
+
 Este proyecto tiene como objetivo principal realizar la visualización de datos obtenidos a través de un proceso de ETL (Extracción, Transformación y Carga).
 
 ## Datos utilizados
