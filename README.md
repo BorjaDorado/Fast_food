@@ -2,7 +2,7 @@
 
 [![fast-food.jpg](https://i.postimg.cc/GmVtrc5P/fast-food.jpg)](https://postimg.cc/gxymHPdr)
 
-Este proyecto tiene como objetivo principal realizar la visualización de datos obtenidos a través de un proceso de ETL (Extracción, Transformación y Carga).
+Este proyecto tiene como ***objetivo*** principal realizar la ***visualización de datos*** obtenidos a través de un proceso de ETL (Extracción, Transformación y Carga).
 
 ## Datos utilizados
 Los datos utilizados para este proyecto fueron obtenidos de un archivo CSV descargado de la fuente Kaggle. El archivo contiene información sobre los valores nutricionales de menús de comida rápida en diferentes restaurantes.
